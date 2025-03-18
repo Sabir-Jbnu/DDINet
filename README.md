@@ -1,6 +1,7 @@
+## Paper overview and Graphical Representation
 Drug-drug interactions(DDIs) can lead to unexpected adverse side effects, presenting significant challenges in both research and clinical environments. Although numerous DDIs have been documented, the underlying mechanisms remain inadequately understood. The precise prediction and analysis of DDIs are essential for improving drug safety and ensuring patient health. In this study, we present DDINet, a predictive model that leverages Morgan fingerprints to assess DDIs based on the structural characteristics of drugs. We utilize a range of data-splitting methodologies with a fundamental neural network to evaluate novel drug combinations. The findings from DDINet indicate superior performance compared to the baseline model when tested on the independent hold-out set, and it exhibits robust efficacy on imbalanced datasets, peculiarly in multi-class classification. Additionally, it demonstrates commendable results using the scaffold-splitting approach.
-![Data_and_Model_diagram-min_optimized_10000](https://github.com/user-attachments/assets/07409cef-056f-4ec2-b15e-6ca6e9c59ff3)
 
+![Data_and_Model_diagram-min_optimized_10000](https://github.com/user-attachments/assets/28dcfe9a-3a26-4443-b175-9457162a0b25)
 
 
 ## Experimental Setup
